@@ -1,0 +1,5 @@
+/CIB/pages/card/report/summary_report/summary_report.php
+
+/CIB/pages/card/report/contract_monthly_report/contract_monthly_report.php
+
+/CIB/pages/card/report/subject_monthly_report/subject_monthly_report.php
